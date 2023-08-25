@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Malav1",
+      "lastName": "karelia",
+      "email": "malav@gmail.com",
+      "mobile": 1232324536,
+      "salary": 40000
+    },
+    {
+      "id": 3,
+      "firstName": "Malav",
+      "lastName": "karelia",
+      "email": "malav@gmail.com",
+      "mobile": 9904246824,
+      "salary": 60000
+    },
+    {
+      "id": 5,
+      "firstName": "Abhi",
+      "lastName": "Patel",
+      "email": "abhi@gmail.com",
+      "mobile": 9327826198,
+      "salary": 60000
+    },
+    {
+      "id": 6,
+      "firstName": "Jeel",
+      "lastName": "Patel",
+      "email": "jeel@gmail.com",
+      "mobile": 5728720908,
+      "salary": 30000
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
